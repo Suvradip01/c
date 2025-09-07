@@ -1,2 +1,3 @@
-# c
-Learn c
+# C
+Learn C Beginner to intermediate
+
