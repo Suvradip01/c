@@ -1,0 +1,30 @@
+Student Name   : Suvradip Ghosh
+Student ID     : 211001102052
+Department     : BCA
+CGPA           : 8.880000
+
+
+Student Name   : Tanish Roy
+Student ID     : 211001102053
+Department     : BCA
+CGPA           : 8.440000
+
+
+Student Name   : Mainak Roy
+Student ID     : 211001102054
+Department     : BCA
+CGPA           : 8.010000
+
+
+Student Name   : Arti Sukla
+Student ID     : 211001102055
+Department     : BCA
+CGPA           : 7.550000
+
+
+Student Name : Rahul Bose
+Student ID : 211001102056
+Department : BCA
+CGPA : 8.470000
+
+
